@@ -321,7 +321,7 @@ There are also recent works on new methods to measure visual similarity (more wi
 [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/docs/diffusers/v0.17.1/en/api/pipelines/model_editing)
 [![Code](https://img.shields.io/github/stars/bahjat-kawar/time-diffusion.svg?style=social&label=Official)](https://github.com/bahjat-kawar/time-diffusion)
  
-+ [https://www.ijcai.org/proceedings/2022/132](https://paperswithcode.com/paper/text-to-image-generation-for-abstract) (26-09-2023)
++ [Text-to-Image Generation for Abstract Concepts](https://paperswithcode.com/paper/text-to-image-generation-for-abstract) (26-09-2023)
 
 + [Attribute Based Interpretable Evaluation Metrics for Generative Models](https://arxiv.org/abs/2310.17261) (26-10-2023)
 
