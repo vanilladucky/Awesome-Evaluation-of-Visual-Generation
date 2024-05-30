@@ -122,6 +122,11 @@ There are also recent works on new methods to measure visual similarity (more wi
 + [DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data](https://arxiv.org/abs/2306.09344) (2023-06-15)  
   [![Code](https://img.shields.io/github/stars/ssundaram21/dreamsim.svg?style=social&label=Official)](https://github.com/ssundaram21/dreamsim)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamsim-nights.github.io)
+
++ [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196) (27-10-2017)
+  [![Code](https://img.shields.io/github/stars/tkarras/progressive_growing_of_gans.svg?style=social&label=Official)](https://github.com/tkarras/progressive_growing_of_gans)
+
++ [SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance](https://arxiv.org/abs/2405.15321) (24-05-2024)
   
 <a name="3."></a>
 ## 3. Evaluation Systems of Generative Models
@@ -268,6 +273,66 @@ There are also recent works on new methods to measure visual similarity (more wi
 + [Semantic Object Accuracy for Generative Text-to-Image Synthesis](https://arxiv.org/abs/1910.13321) (2019-10-29)  
   [![Code](https://img.shields.io/github/stars/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis.svg?style=social&label=Official)](https://github.com/tohinz/semantic-object-accuracy-for-generative-text-to-image-synthesis?tab=readme-ov-file)  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.tobiashinz.com/2019/10/30/semantic-object-accuracy-for-generative-text-to-image-synthesis)
 
++ [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) (23-05-2022, NeurIPS 2024)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/)
+
++ [Mean opinion score (MOS) revisited: methods and applications, limitations and alternatives](https://www.researchgate.net/publication/298090737_Mean_opinion_score_MOS_revisited_methods_and_applications_limitations_and_alternatives) (01-03-2016)
+
++ [No-Reference Image Quality Assessment in the Spatial Domain](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/6272356) (17-08-2012)
+
++ [Text-To-Image Synthesis Method Evaluation Based On Visual Patterns](https://arxiv.org/abs/1911.00077) (09-04-2020)
+
++ [GIQA: Generated Image Quality Assessment](https://arxiv.org/abs/2003.08932) (19-03-2020)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/cientgu/GIQA)
+
++ [Semantic Similarity Distance: Towards better text-image consistency metric in text-to-image generation](https://arxiv.org/abs/2210.15235) (27-10-2022)
+
++ [Conditional Frechet Inception Distance](https://arxiv.org/abs/2103.11521) (21-03-2021)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://michael-soloveitchik.github.io/CFID/)
+[![Code](https://img.shields.io/github/stars/Michael-Soloveitchik/CFID.svg?style=social&label=Official)](https://github.com/Michael-Soloveitchik/CFID/)
+
++ [Object-Centric Image Generation from Layouts](https://arxiv.org/abs/2003.07449) (16-03-2020)
+
++ [Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network](https://arxiv.org/abs/1802.09178v2) (26-02-2018)
+[![Code](https://img.shields.io/github/stars/ypxie/HDGan.svg?style=social&label=Official)](https://github.com/ypxie/HDGan)
+
++ [Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis](https://arxiv.org/abs/1801.05091v2) (16-01-2018)
+
++ [Semantically Invariant Text-to-Image Generation](https://ieeexplore.ieee.org/abstract/document/8451656) (06-09-2018)
+
++ [Evaluation Metrics for Conditional Image Generation](https://arxiv.org/abs/2004.12361) (26-04-2020)
+
++ [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) (09-01-2020)
+
++ [Learning Multi-dimensional Human Preference for Text-to-Image Generation](https://arxiv.org/abs/2405.14705)(23-05-2024)  
+
++ [Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy](https://arxiv.org/abs/2405.14800) (23-05-2024)
+
++ [Likelihood-Based Text-to-Image Evaluation with Patch-Level Perceptual and Semantic Credit Assignment](https://arxiv.org/abs/2308.08525) (16-08-2023)
+
++ [Evaluating Text-to-Image Generative Models: An Empirical Study on Human Image Synthesis](https://arxiv.org/abs/2403.05125) (08-03-2024)
+
++ [A natural image quality evaluation metric](https://www.sciencedirect.com/science/article/abs/pii/S0165168408003150)(31-07-2008)
+
++ [Exploring CLIP for Assessing the Look and Feel of Images](https://arxiv.org/abs/2207.12396) (25-07-2022)
+[![Code](https://img.shields.io/github/stars/IceClear/CLIP-IQA.svg?style=social&label=Official)](https://github.com/IceClear/CLIP-IQA)
+
++ [Editing Implicit Assumptions in Text-to-Image Diffusion Models](https://arxiv.org/abs/2303.08084) (14-03-2023)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/docs/diffusers/v0.17.1/en/api/pipelines/model_editing)
+[![Code](https://img.shields.io/github/stars/bahjat-kawar/time-diffusion.svg?style=social&label=Official)](https://github.com/bahjat-kawar/time-diffusion)
+ 
++ [https://www.ijcai.org/proceedings/2022/132](https://paperswithcode.com/paper/text-to-image-generation-for-abstract) (26-09-2023)
+
++ [Attribute Based Interpretable Evaluation Metrics for Generative Models](https://arxiv.org/abs/2310.17261) (26-10-2023)
+
++ [Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation](https://openreview.net/forum?id=F0J1N6M5N9) (16-12-2023)
+
++ [Virtual Classifier: A Reversed Approach for Robust Image Evaluation](https://openreview.net/forum?id=IE6FbueT47) (04-03-2024)
+
++ [OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation](https://openreview.net/forum?id=SeiL55hCnu) (23-09-2023)
+
++ [Benchmarking Robustness of Multimodal Image-Text Models under Distribution Shift](https://arxiv.org/abs/2212.08044) (15-12-2022) 
+
 
 <a name="3.3."></a>
 ### 3.3. Evaluation of Text-Based Image Editing
@@ -279,6 +344,8 @@ There are also recent works on new methods to measure visual similarity (more wi
   
 + [Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting](https://arxiv.org/abs/2212.06909) (2022-12-13, CVPR 2023)  
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.google/blog/imagen-editor-and-editbench-advancing-and-evaluating-text-guided-image-inpainting/)
+
++ [Manipulation Direction: Evaluating Text-Guided Image Manipulation Based on Similarity between Changes in Image and Text Modalities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10675000/) (20-11-2023)
 
 
 <a name="3.4."></a>
@@ -386,6 +453,24 @@ There are also recent works on new methods to measure visual similarity (more wi
 
 + [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models](https://arxiv.org/abs/2202.04053) (2022-02-08, ICCV 2023)  
   [![Code](https://img.shields.io/github/stars/j-min/DallEval.svg?style=social&label=Official)](https://github.com/j-min/DallEval)
+
++ [Quantifying Bias in Text-to-Image Generative Models](https://arxiv.org/abs/2312.13053) (20-12-2023) 
+
++ [Gender Biases in Automatic Evaluation Metrics for Image Captioning](https://arxiv.org/abs/2305.14711) (24-05-2023)
+
++ [How well can Text-to-Image Generative Models understand Ethical Natural Language Interventions?](https://arxiv.org/abs/2210.15230) (27-10-2022)
+[![Code](https://img.shields.io/github/stars/Hritikbansal/entigen_emnlp.svg?style=social&label=Official)](https://github.com/Hritikbansal/entigen_emnlp)
+
++ [T2IAT: Measuring Valence and Stereotypical Biases in Text-to-Image Generation](https://arxiv.org/abs/2306.00905) (01-06-2023)
+[![Code](https://img.shields.io/github/stars/eric-ai-lab/T2IAT.svg?style=social&label=Official)](https://github.com/eric-ai-lab/T2IAT)
+
++ [Fairness Indicators for Systematic Assessments of Visual Feature Extractors](https://arxiv.org/abs/2202.07603) (15-02-2022)
+
++ [FACET: Fairness in Computer Vision Evaluation Benchmark](https://arxiv.org/abs/2309.00035) (31-08-2023)
+ [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/research/publications/facet-fairness-in-computer-vision-evaluation-benchmark/)
+
+ + [On the Cultural Gap in Text-to-Image Generation](https://arxiv.org/abs/2307.02971) (06-07-2023) 
+
 
 #### 3.6.2. Evaluation of Non-Visual-Generation-Model Trustworthiness
 Not for visual generation, but related evaluations of other models like LLMs
@@ -527,6 +612,10 @@ Not for visual generation, but related evaluations of other models like LLMs
 + LAION-Aesthetics_Predictor V1 (2022-05-21)  
   [![Code](https://img.shields.io/github/stars/LAION-AI/aesthetic-predictor.svg?style=social&label=Official)](https://github.com/LAION-AI/aesthetic-predictor)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://laion.ai/blog/laion-aesthetics/#laion-aesthetics-v1)
+
++ [Rethinking Image Aesthetics Assessment: Models, Datasets and Benchmarks](https://www.researchgate.net/publication/362037160_Rethinking_Image_Aesthetics_Assessment_Models_Datasets_and_Benchmarks) (01-07-2022)
+[![Code](https://img.shields.io/github/stars/woshidandan/TANet-image-aesthetics-and-quality-assessment.svg?style=social&label=Official)](https://github.com/woshidandan/TANet-image-aesthetics-and-quality-assessment)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://www.ijcai.org/proceedings/2022/132)
 
 
 <!-- ## Video Quality Assessment for AIGC
